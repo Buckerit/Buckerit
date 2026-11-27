@@ -1,16 +1,29 @@
-## Hi there 👋
+![Aarav Rothe — Software & Digital Hardware](assets/banner.png)
+# Hey, I'm Aarav 👋
 
-<!--
-**Buckerit/Buckerit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science co-op student at the University of Waterloo,
+specializing in Digital Hardware.
 
-Here are some ideas to get you started:
+I build backend services, developer tools, and occasionally hardware.
+Currently contributing to UW Orbital's ground-station software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/aarav-rothe-82bb44269/) ·
+[Email](mailto:rothe.aarav@gmail.com)
+
+### Selected work
+
+🚀 **UWSeatWatch** — Course-seat alerts used by 30+ Waterloo students.
+[Try it](https://uwseatwatch.watch/) ·
+[Code](https://github.com/Buckerit/UW_SEAT_WATCH)
+
+🍳 **CookPilot** — Voice-powered cooking assistance with recipe
+and video processing.
+[Code](https://github.com/Buckerit/CookBot)
+
+🦾 **FPGA Robotic Arm Controller** — Verilog control logic
+using Moore and Mealy state machines.
+[Code](https://github.com/Buckerit/FPGA-Robotic-Arm-Controller)
+
+### Technologies
+
+Python · TypeScript · C/C++ · FastAPI · React · PostgreSQL · Docker · Linux
